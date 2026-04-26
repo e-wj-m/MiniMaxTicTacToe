@@ -1020,7 +1020,7 @@ MonoBehaviour:
   resetStatsButton: {fileID: 251301834}
   playerWinsText: {fileID: 10243324}
   aiWinsText: {fileID: 550382193}
-  pvaiDrawsText: {fileID: 0}
+  pvaiDrawsText: {fileID: 1333263481}
   ai1WinsText: {fileID: 1268421876}
   ai2WinsText: {fileID: 1390805563}
   aivsaiDrawsText: {fileID: 895967296}
